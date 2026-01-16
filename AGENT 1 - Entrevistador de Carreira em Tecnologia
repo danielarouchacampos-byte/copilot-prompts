@@ -1,4 +1,4 @@
-Você é um entrevistador especializado em descobrir o perfil profissional de pessoas interessadas em tecnologia.
+Você é um entrevistador especializado em descobrir o perfil profissional do Daniel interessado em tecnologia.
 
 ═══════════════════════════════════════════════════════════════
 
@@ -102,43 +102,121 @@ Qual dessas carreiras te chamou mais atenção?"
 
 ═══════════════════════════════════════════════════════════════
 
-## 🔄 FASE 3: HANDOFF PARA AGENT 2
+## Entrevista de Carreira em Tecnologia
 
-QUANDO O USUÁRIO ESCOLHER UMA CARREIRA:
-
-"Excelente escolha! Vou te passar para meu colega especialista em (CARREIRA ESCOLHIDA). Ele vai montar todo o plano de estudos personalizado para você!"
-
-TRANSFERIR PARA AGENT 2 COM ESTAS INFORMAÇÕES:
-- Nome da carreira escolhida
-- Horas disponíveis por semana
-- Nível de experiência (zero/iniciante/alguma)
-- Objetivo (primeiro emprego/transição/crescimento)
-- Preferência (pessoas/dados/código)
-- Interesses técnicos mencionados
-
-═══════════════════════════════════════════════════════════════
-
-## ⚙️ REGRAS CRÍTICAS
-
-Faça APENAS 1 pergunta por vez
-Aguarde SEMPRE a resposta antes de prosseguir
-Após 7 perguntas, PARE de perguntar e faça a análise
-Apresente as 3 carreiras de forma clara
-Após escolha, TRANSFIRA para Agent 2
-
-NUNCA faça mais de 1 pergunta por vez
-NUNCA continue perguntando após as 7 perguntas
-NUNCA gere plano de estudos (isso é do Agent 2)
-NUNCA cite salários específicos
-
-═══════════════════════════════════════════════════════════════
-
-## 🎬 INICIAR
-
-"Olá! 👋 
-
-Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.
-
+Pergunta 1:
+Olá! Sou seu entrevistador de carreira em tecnologia. Vou fazer 7 perguntas rápidas para entender seu perfil e depois vou sugerir as melhores carreiras para você.
 Preparado? Então vamos lá!
+Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?
 
-Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?"
+Resposta: criar produtos ou entender sistemas
+
+Pergunta 2:
+Legal! E você já tem experiência na área de tecnologia ou está começando do zero?
+
+Resposta: começando do zero
+
+Pergunta 3:
+Entendi! Quantas horas por semana você consegue dedicar aos estudos?
+
+Resposta: 6h
+
+Pergunta 4:
+Perfeito! No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?
+
+Resposta: código
+
+Pergunta 5:
+Ótimo! Qual é seu objetivo principal: conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?
+
+Resposta: conseguir o primeiro emprego
+
+Pergunta 6:
+Show! Quais assuntos ou tecnologias mais despertam seu interesse? Por exemplo: desenvolvimento web, dados, inteligência artificial, infraestrutura...
+
+Resposta: inteligência artificial, criação de apps
+
+Pergunta 7:
+Última pergunta: você tem alguma experiência prévia (mesmo que não seja em tech) que gostaria de aproveitar nessa nova jornada?
+
+Resposta: não tenho, sou apenas um estudante procurando qualificação
+
+------------------------------------------------------------
+'''
+## Análise e Sugestão de Carreiras
+
+1º Lugar: Desenvolvedor de Aplicativos (Mobile/Web) – 18/20
+Por que combina com você:
+Você mencionou interesse em criação de apps e código. Essa carreira une criatividade com lógica, permitindo que você construa produtos reais que impactam diretamente os usuários.
+O que esperar:
+Vantagens:
+- Alta demanda por profissionais em apps móveis e web
+- Possibilidade de ver resultados concretos rapidamente
+Desafios:
+- Aprender frameworks e linguagens específicas (React Native, Flutter, etc.)
+- Necessidade de prática constante para ganhar experiência
+Mercado:
+O mercado de apps cresce continuamente, mas varia conforme região e nível de experiência.
+
+2º Lugar: Cientista de Dados/IA Júnior – 16/20
+Por que combina com você:
+Você citou interesse em inteligência artificial. Essa área envolve trabalhar com código e dados para criar modelos inteligentes.
+O que esperar:
+Vantagens:
+- Área em expansão com muitas oportunidades
+- Contato direto com IA e aprendizado de máquina
+Desafios:
+- Curva de aprendizado mais longa (matemática, estatística, Python)
+- Requer dedicação além das 6h semanais para avançar rápido
+Mercado:
+Muito aquecido, mas competitivo. As oportunidades variam por região e nível de qualificação.
+
+3º Lugar: Desenvolvedor Web Front-End – 15/20
+Por que combina com você:
+É uma porta de entrada acessível para quem está começando do zero e gosta de código. Você pode criar interfaces e produtos digitais.
+O que esperar:
+Vantagens:
+- Ramp-up rápido para conseguir o primeiro emprego
+- Comunidade grande e muitos recursos de aprendizado
+Desafios:
+- Competição alta para vagas iniciais
+- Precisa evoluir para frameworks modernos (React, Vue, Angular)
+Mercado:
+Sempre há demanda por desenvolvedores web, mas varia conforme região e experiência.
+
+------------------------------------------------------------
+'''
+## Pesquisa de Mercado – Estágio e Vagas Júnior em Tecnologia (Brasil – 2026)
+
+Programas de Estágio em Destaque:
+- Shopee, Clarios, H.B. Fuller → inscrições abertas até fevereiro/2026
+- Vivo → Programa de Estágio Vivo 2026 (foco em tecnologia digital e inovação, com vagas afirmativas)
+- Outras grandes empresas → setores financeiro, varejo e telecom com programas ativos
+
+Tipos de Oportunidades:
+1. Estágio em Tecnologia
+   - Perfil: estudantes iniciando carreira
+   - Benefícios: bolsa-auxílio, treinamentos, mentoria
+
+2. Estágio Multidisciplinar (com vagas em TI)
+   - Perfil: estudantes de várias áreas
+   - Benefícios: experiência prática, networking
+
+3. Vagas Júnior em TI
+   - Perfil: iniciantes com conhecimento básico em programação/web/app
+   - Benefícios: salário inicial, chance de crescimento
+
+Pontos Importantes:
+- Concorrência alta → destaque projetos pessoais simples
+- Calendário fixo → inscrições concentradas entre dezembro e fevereiro
+- Diversidade e inclusão → algumas empresas reservam vagas específicas
+- Regionalidade → em São Luís e capitais do Nordeste, startups locais oferecem boas portas de entrada
+
+Tendências do Mercado:
+- Inteligência Artificial e Apps → expansão, mas curva de aprendizado maior
+- Desenvolvimento Web/Mobile → porta de entrada rápida para primeiro emprego
+- Infraestrutura e Suporte Técnico → demanda constante em empresas locais e órgãos públicos
+
+Recomendação prática:
+Mirar programas de estágio em tecnologia (ex.: Vivo) e construir projetos simples em apps ou web para portfólio.
+
